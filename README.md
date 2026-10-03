@@ -1,2 +1,2 @@
 # demo-webdev
-Demo for Git and Github
+This is a demo for Git and Github.
